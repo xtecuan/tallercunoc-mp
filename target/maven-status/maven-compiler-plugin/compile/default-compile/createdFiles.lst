@@ -1,0 +1,5 @@
+com/kodnito/bookstore/service/BookService.class
+com/kodnito/bookstore/rest/HelloWorldEndpoint.class
+com/kodnito/bookstore/rest/BookStoreEndpoint.class
+com/kodnito/bookstore/entity/Book.class
+com/kodnito/bookstore/rest/ApplicationConfig.class
